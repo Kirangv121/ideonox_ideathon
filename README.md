@@ -14,8 +14,8 @@
 ## Deployed link : https://ideonox.vercel.app/
 
 
-IDEONOX – Official Website for [Your College Name] Ideathon Event
-IDEONOX is the official website for the annual Ideathon event organized by [Your College Name]. This platform was completely designed, developed, and deployed by me as the Tech Lead for the event. It serves as a central hub for participants, mentors, and organizers to register, view schedules, explore problem statements, and get updates.
+IDEONOX – Official Website for Cambridge Institute Of Technology North Campus Ideathon Event
+IDEONOX is the official website for the annual Ideathon event organized by Cambridge Institute Of Technology North Campus. This platform was completely designed, developed, and deployed by me as the Tech Lead for the event. It serves as a central hub for participants, mentors, and organizers to register, view schedules, explore problem statements, and get updates.
 
 🌟 Highlights
 🔥 Fully designed, developed, and deployed solo.
