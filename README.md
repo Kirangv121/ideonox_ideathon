@@ -1,12 +1,12 @@
 ﻿# ideonox_ideathon
 ## Snapshot
-## 1 Home_Page
+## 1.Home_Page
 ![Home_Page](https://github.com/user-attachments/assets/b547350c-d2fc-4c32-a97d-342e942ba00e)
 
-## 2 Organizers
+## 2.Organizers
 ![Organizers](https://github.com/user-attachments/assets/95975b5d-6690-4c5d-8b30-348886ec83f2)
 
-## 3 Past_Events
+## 3.Past_Events
 ![Past_events](https://github.com/user-attachments/assets/516a888e-9637-4fbc-805b-d345a3b24783)
 
 
